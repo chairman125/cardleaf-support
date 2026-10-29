@@ -2,7 +2,7 @@
 
 카드리프는 받은 종이 명함을 찍어 연락처 파일과 전자명함 이미지로 저장하는 iPhone 앱입니다. 글자 인식부터 저장까지 휴대폰 안에서 처리하고, 서버로 아무것도 보내지 않습니다.
 
-Cardleaf saves the paper business cards you receive: take a photo, and it reads the card on the device and lets you add the contact and save a card image. Nothing leaves the phone.
+Cardleaf saves the paper business cards you receive: take a photo, and it reads the card on the device and lets you add the contact and save a card image. The app sends nothing off the phone; only what you share yourself leaves it.
 
 - [개인정보 처리방침](privacy-ko.html)
 - [Privacy Policy (English)](privacy.html)

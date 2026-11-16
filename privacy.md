@@ -2,7 +2,7 @@
 
 [한국어](privacy-ko.html)
 
-Effective date: October 28, 2026
+Effective date: November 16, 2026
 
 Cardleaf saves the paper business cards you receive as a contact file and a card image. Everything happens on your phone. The developer does not collect or receive any of your information.
 
@@ -22,6 +22,21 @@ None. The app has no server, no accounts, and no analytics, advertising or track
 ## When information reaches other services
 
 The app sends nothing itself. Images saved to Photos may sync to iCloud Photos or another backup service according to your phone's settings, and images, contact files, measurement files or logo reports you share are handled by the app you share them with.
+
+## Android
+
+Everything above, except the measurement mode, also applies to the Android app. On Android, note the following:
+
+- **No internet permission**: the released Android app has no internet permission, so it cannot send anything off the phone by itself.
+- **Permissions**: the camera is used only while you photograph a card. On Android 8–9 the app asks for storage permission (photos, media and files) when you save a card image to the gallery; it uses it only to save and does not read your other photos. On Android 10 and later it saves without any storage permission. The vibrate permission only drives the phone's vibration and handles no information. The app does not ask for contacts, location or microphone access.
+- **Text recognition**: Google ML Kit's Korean text recognition model is bundled in the app and runs on the phone. Photos and recognized text are not sent to Google or the developer.
+- **Import photo**: reads only the photos you pick in the system photo picker.
+- **Save to gallery**: card images are saved as new files in the Pictures/Cardleaf folder.
+- **Contact file**: tapping "연락처 파일" (Contact file) opens the share sheet together with your Contacts app's import option (how it appears depends on your device and Contacts app). You decide in the Contacts app whether to add the contact; the app does not read or change your contacts.
+- **Measurement mode**: not available on Android.
+- **Backup**: the app's settings and temporary files are excluded from Android backup, including Google account backup. Images saved to the gallery follow your phone's photo backup settings, such as Google Photos.
+- **Deleting**: uninstalling the app deletes its settings and temporary files. Delete saved card images in your gallery app and added contacts in your Contacts app.
+- **Payments**: the Android app is free and has no in-app purchases.
 
 ## Children
 

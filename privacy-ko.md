@@ -1,6 +1,6 @@
 # 카드리프 개인정보 처리방침
 
-[English](privacy.html)
+[English](privacy.html) · [日本語](privacy-ja.html)
 
 시행일: 2026년 11월 16일
 

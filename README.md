@@ -4,9 +4,12 @@
 
 Cardleaf saves the paper business cards you receive: take a photo, and it reads the card on the device and lets you add the contact and save a card image. The app sends nothing off the phone; only what you share yourself leaves it.
 
+Cardleaf（カードリーフ）は、受け取った紙の名刺を撮影して、端末の中で読み取り、連絡先と名刺画像として保存できる iPhone アプリです。アプリが端末の外に何かを送ることはなく、あなたが共有したものだけが外に出ます。
+
 - [개인정보 처리방침](privacy-ko.html)
 - [Privacy Policy (English)](privacy.html)
-- 문의 (Support): <bitsae.mooni@gmail.com>, 또는 [Issues](https://github.com/chairman125/cardleaf-support/issues). Issues는 공개되므로 실제 명함 사진이나 연락처를 올리지 마세요. (Issues are public: do not post real business cards or contact details.)
+- [プライバシーポリシー（日本語）](privacy-ja.html)
+- 문의 (Support): <bitsae.mooni@gmail.com>, 또는 [Issues](https://github.com/chairman125/cardleaf-support/issues). Issues는 공개되므로 실제 명함 사진이나 연락처를 올리지 마세요. (Issues are public: do not post real business cards or contact details. Issues は公開されるため、実際の名刺写真や連絡先は投稿しないでください。)
 
 ## 자주 묻는 질문
 
